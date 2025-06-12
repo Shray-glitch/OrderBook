@@ -1,3 +1,6 @@
 build/
 *.o
 
+
+# CMake build dir
+cmake-build-debug/
